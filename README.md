@@ -3,7 +3,7 @@
 - he/him
 
 ### My Favorite Coding Language:
-![py]()
+![py](https://i.imgur.com/nL09CPD.png)
 
 ### My Favorite Drink:
-![rb](https://i.imgur.com/i4fw8xQ.png)
+![rb]()
