@@ -1,5 +1,5 @@
 # About me
-- Gay/Asexual
+- Gay/Asexual/Demiromantic
 - he/him
 
 ### My Favorite Coding Language:
